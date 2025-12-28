@@ -1,3 +1,3 @@
 Option Explicit
-Sub BuildAssembly()
+Sub CreateDrawings()
 End Sub
